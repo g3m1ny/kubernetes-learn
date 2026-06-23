@@ -27,4 +27,4 @@ spec:
     - destination:
         host: lb-service-local-nginx
         port:
-          number: 80
+          number: 8080
